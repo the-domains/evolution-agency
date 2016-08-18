@@ -1,19 +1,32 @@
-typography_spectrum: 0.26211310853250325
-color:
-  brandStrength: 0.6780571287963539
-  lightness: 0.4003219334408641
-  saturation: 0.8539298994001001
-  rhythmicContrast: 0.42497950280085206
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.04033298324793577
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bee95e6-8c34-461d-878f-6b6c23b1bda2.ico
 name: Evolution
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3998665-e6f6-433f-97ab-7b5be91a657a.ico
+layout_spectrum: 0.04033298324793577
+typography_spectrum: 0.26211310853250325
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bee95e6-8c34-461d-878f-6b6c23b1bda2.ico
 title: Brand Monetization
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#73f700'
+    - '#3c4040'
+    - '#828787'
+    - '#cecfcf'
+  brandStrength: 0.875
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.25
+purpose: []
